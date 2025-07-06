@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/box3lab-engine-openapi-mcp-badge.png)](https://mseep.ai/app/box3lab-engine-openapi-mcp)
+
 # 神岛引擎 OpenAPI MCP 工具集
 
 [![smithery badge](https://smithery.ai/badge/@box3lab/engine-openapi-mcp)](https://smithery.ai/server/@box3lab/engine-openapi-mcp)
